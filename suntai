@@ -1,0 +1,3 @@
+local config = true
+local updates = true
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unknownuser11736/suntaiv10/main/suntai/whitelistrelease/v10", true))()
